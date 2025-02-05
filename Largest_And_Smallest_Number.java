@@ -1,3 +1,8 @@
+/*A Software that Can Find both the largest and smallest number, 
+given an Array of numbers.
+It survives every test case: 
+negative numbers, repeated numbers, large List.*/
+
 package com.joe;
 
 public class Largest_And_Smallest_Number {
