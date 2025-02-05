@@ -1,3 +1,7 @@
+/*Java Language :
+A grocery billing system that calculates total purchase and 
+applies 5% discount if customer exceeds $200*/
+
 package com.joe;
 
 import java.util.Scanner;
