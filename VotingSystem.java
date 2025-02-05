@@ -1,3 +1,7 @@
+/*A Voting Software System:
+A program that allows users to vote 
+and counts the number of votes for each candidate.*/
+
 package com.joe;
 import java.util.Scanner;
 public class VotingSystem {
